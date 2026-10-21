@@ -1,0 +1,3 @@
+# Local development and static server dependencies
+wheel>=0.40.0
+httpimport>=1.3.0

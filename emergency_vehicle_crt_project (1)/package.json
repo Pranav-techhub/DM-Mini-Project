@@ -1,0 +1,12 @@
+{
+  "name": "emergency-vehicle-crt-system",
+  "version": "1.0.0",
+  "description": "Emergency Vehicle Priority using Traffic Signal Synchronization via Chinese Remainder Theorem",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8080 --directory public",
+    "cpp": "make run"
+  },
+  "author": "Student Project",
+  "license": "MIT"
+}
